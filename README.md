@@ -1,8 +1,5 @@
-Hi, im Sethy or Sethycake or Rav
+Hi, im Sethy
 
 I'm italian
 
-I try learn python  with my friend Primex -> https://github.com/primextopx
-
-I make Rav X! 
-Download now!
+I try learn python
